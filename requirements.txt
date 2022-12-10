@@ -1,3 +1,9 @@
 Pillow==9.2.0
 PyPDF2==2.5.0
 pytube==12.1.0
+
+https://pillow.readthedocs.io/en/stable/installation.html
+
+https://pypi.org/project/PyPDF2/
+
+https://pytube.io/en/latest/
